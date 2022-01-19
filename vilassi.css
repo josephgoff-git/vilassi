@@ -11,6 +11,7 @@ a:hover { text-decoration: none; color: black;}
 a:active { text-decoration: none; color: black;}
 
 body {
+    overflow-x: hidden;
     font-family: "Lato", sans-serif; /* sans serif is now backup font */
 }
 
